@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Temp/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|e:\\teaching_2024\\.net_new\\practicals\\sample_webapp\\webapplication1\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\validationcontrol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:validationcontrol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\webservercontrol1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:webservercontrol1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\webservercontrol1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:webservercontrol1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\htmlcontrol1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:htmlcontrol1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\htmlcontrol1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:htmlcontrol1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\validationcontrol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:validationcontrol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\htmlcontrol2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:htmlcontrol2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\htmlcontrol2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:htmlcontrol2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\helloworld.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:helloworld.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\helloworld.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B047E9B7-A84E-4F47-9241-473A55F5C023}|WebApplication1.csproj|solutionrelative:helloworld.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "WebForm3.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm3.aspx",
+              "RelativeToolTip": "WebForm3.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T05:22:02.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HTMLControl1.aspx.cs",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl1.aspx.cs",
+              "RelativeDocumentMoniker": "HTMLControl1.aspx.cs",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl1.aspx.cs",
+              "RelativeToolTip": "HTMLControl1.aspx.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:26:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebServerControl1.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebServerControl1.aspx",
+              "RelativeDocumentMoniker": "WebServerControl1.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebServerControl1.aspx",
+              "RelativeToolTip": "WebServerControl1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:38:45.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Temp/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T18:18:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebServerControl1.aspx.cs",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebServerControl1.aspx.cs",
+              "RelativeDocumentMoniker": "WebServerControl1.aspx.cs",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebServerControl1.aspx.cs",
+              "RelativeToolTip": "WebServerControl1.aspx.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:39:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:59:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationControl.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\ValidationControl.aspx",
+              "RelativeDocumentMoniker": "ValidationControl.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\ValidationControl.aspx",
+              "RelativeToolTip": "ValidationControl.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:52:48.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WebForm2.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\WebForm2.aspx",
+              "RelativeToolTip": "WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T18:05:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HTMLControl1.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl1.aspx",
+              "RelativeDocumentMoniker": "HTMLControl1.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl1.aspx",
+              "RelativeToolTip": "HTMLControl1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:22:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationControl.aspx.cs",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\ValidationControl.aspx.cs",
+              "RelativeDocumentMoniker": "ValidationControl.aspx.cs",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\ValidationControl.aspx.cs",
+              "RelativeToolTip": "ValidationControl.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:53:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HTMLControl2.aspx.cs",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl2.aspx.cs",
+              "RelativeDocumentMoniker": "HTMLControl2.aspx.cs",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl2.aspx.cs",
+              "RelativeToolTip": "HTMLControl2.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:31:26.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HTMLControl2.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl2.aspx",
+              "RelativeDocumentMoniker": "HTMLControl2.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HTMLControl2.aspx",
+              "RelativeToolTip": "HTMLControl2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:29:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelloWorld.aspx.cs",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HelloWorld.aspx.cs",
+              "RelativeDocumentMoniker": "HelloWorld.aspx.cs",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HelloWorld.aspx.cs",
+              "RelativeToolTip": "HelloWorld.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:19:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HelloWorld.aspx",
+              "DocumentMoniker": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HelloWorld.aspx",
+              "RelativeDocumentMoniker": "HelloWorld.aspx",
+              "ToolTip": "E:\\Teaching_2024\\.Net_New\\Practicals\\Sample_WebApp\\WebApplication1\\HelloWorld.aspx",
+              "RelativeToolTip": "HelloWorld.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T17:17:27.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\bin\WebApplication1.dll.config
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\bin\WebApplication1.dll
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\bin\WebApplication1.pdb
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Teaching_2024\.Net_New\Practicals\Sample_WebApp\WebApplication1\obj\Debug\WebApplication1.pdb
