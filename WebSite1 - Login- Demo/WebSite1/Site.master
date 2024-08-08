@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <header>
+                <h1>My Website</h1>
+                <nav>
+                    <a href="Default.aspx">Home</a> | 
+                    <a href="Register.aspx">Register</a> | 
+                    <a href="Login.aspx">Login</a> | 
+                    <a href="Welcome.aspx">Welcome</a>
+                    <a href="TestPage.aspx">TestPage</a>
+                </nav>
+            </header>
+            <hr />
+            <asp:ContentPlaceHolder id="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; 2024 My Website</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

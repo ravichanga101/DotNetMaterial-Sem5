@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\testpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\testpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|c:\\users\\charusat\\source\\repos\\website1\\website1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15998779-E2E0-4905-BB02-7328EB1BC792}|C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1|solutionrelative:website1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "WebSite1\\Welcome.aspx.cs",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Welcome.aspx.cs",
+              "RelativeToolTip": "WebSite1\\Welcome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:33:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "WebSite1\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Register.aspx.cs",
+              "RelativeToolTip": "WebSite1\\Register.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:31:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebSite1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Login.aspx.cs",
+              "RelativeToolTip": "WebSite1\\Login.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:28:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Web.config",
+              "RelativeDocumentMoniker": "WebSite1\\Web.config",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Web.config",
+              "RelativeToolTip": "WebSite1\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-08T09:26:18.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.master",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Site.master",
+              "RelativeDocumentMoniker": "WebSite1\\Site.master",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Site.master",
+              "RelativeToolTip": "WebSite1\\Site.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T09:23:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestPage.aspx",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\TestPage.aspx",
+              "RelativeDocumentMoniker": "WebSite1\\TestPage.aspx",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\TestPage.aspx",
+              "RelativeToolTip": "WebSite1\\TestPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T09:22:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebSite1\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Default.aspx.cs",
+              "RelativeToolTip": "WebSite1\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:07:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebSite1\\Default.aspx",
+              "ToolTip": "C:\\Users\\CHARUSAT\\source\\repos\\WebSite1\\WebSite1\\Default.aspx",
+              "RelativeToolTip": "WebSite1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T09:07:18.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
